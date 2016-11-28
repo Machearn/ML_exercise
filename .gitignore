@@ -1,3 +1,5 @@
 *
 !.gitignore
-!*.m
+!/exercise1
+!/exercise1/*.m
+/exercise1/submit.m
