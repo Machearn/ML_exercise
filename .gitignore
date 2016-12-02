@@ -3,3 +3,6 @@
 !/exercise1
 !/exercise1/*.m
 /exercise1/submit.m
+!/exercise2
+!/exercise2/*.m
+/exercise2/submit.m
